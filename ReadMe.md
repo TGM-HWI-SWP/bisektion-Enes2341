@@ -3,17 +3,18 @@
 # Bisektion Vorlage
 
 ## Beschreibung
-Dieses Projekt dient als Vorlage für ein kleines Softwareentwicklungs- und Projektmanagement-Projekt. Es enthält verschiedene Aufgaben, die jeweils in separaten Dateien bearbeitet werden.
+Das Projekt beschäftigt sich mit der Implementierung und Anwendung numerischer Verfahren zur Bestimmung von Nullstellen von Funktionen sowie deren grafischer Darstellung und praktischer Anwendung auf reale Problemstellungen.
 
 ## Aufgaben
-- Aufgabe5.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe6.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe7.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe8.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe9.py: [Kurze Beschreibung der Aufgabe]
+- Aufgabe5.py: Ein Python-Programm berechnet mit dem Bisektionsverfahren die Nullstelle einer Funktion in einem gegebenen Intervall.
+- Aufgabe6.py: Ein weiteres Programm bestimmt mit dem Regula-Falsi-Verfahren die Nullstelle einer Funktion.
+- Aufgabe7.py: Die Annäherung an die Nullstelle wird mit matplotlib grafisch dargestellt.
+- Aufgabe8.py: Der Solver wurde mit einem Polynom getestet, um zu überprüfen, wie sich unterschiedliche Genauigkeiten auf die Anzahl der Iterationsschritte auswirken.
+- Aufgabe9.py: Der Krümmungsradius wird numerisch berechnet und daraus die Länge der elektrischen Leitung bestimmt.
 
 ## Voraussetzungen
 - Python 3.x
+- matplotlib
 
 ## Ausführung
 Jede Aufgabe kann einzeln ausgeführt werden:
