@@ -17,7 +17,7 @@ Das Projekt beschäftigt sich mit der Implementierung und Anwendung numerischer 
 - matplotlib
 
 ## Ausführung
-Jede Aufgabe kann einzeln ausgeführt werden:
+Jede Aufgabe kann einzeln ausgeführt werden. Sie können in VS code sowie im Terminal ausgeführt werden.
 
 
 ## Projektstruktur
